@@ -1,13 +1,13 @@
 ## How to use
-
 Pre-Requisites:
 * Java
 * Katalon Studio IDE
 
 Features:
-* Groovt
-* Cucumber
+* Groovy
 * Junit
+* BDD
+* Cucumber
 * Cucumber Report
 
 ## References
