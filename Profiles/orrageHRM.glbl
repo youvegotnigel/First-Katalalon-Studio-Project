@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>orrageHRM</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL</description>
+      <initValue>'https://opensource-demo.orangehrmlive.com/'</initValue>
+      <name>LOGIN_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Error msg when invalid credentials provided</description>
+      <initValue>'Invalid identifiers'</initValue>
+      <name>LOGIN_ERROR_MSG</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
